@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/youtube/YouTube/YouTube.iml" filepath="$PROJECT_DIR$/../../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/youtube/YouTube/YouTube.iml" group="YouTube" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/youtube/YouTube/app/YouTube-app.iml" filepath="$PROJECT_DIR$/../../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/youtube/YouTube/app/YouTube-app.iml" group="YouTube/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/YouTube/htz-YouTube.iml" filepath="$PROJECT_DIR$/../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/YouTube/htz-YouTube.iml" group="YouTube" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/YouTube/app/htz-YouTube-app.iml" filepath="$PROJECT_DIR$/../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/YouTube/app/htz-YouTube-app.iml" group="YouTube/app" />
+      <module fileurl="file://$PROJECT_DIR$/youtube.iml" filepath="$PROJECT_DIR$/youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/youtube/youtubeEx/youtubeEx.iml" filepath="$PROJECT_DIR$/../../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/youtube/youtubeEx/youtubeEx.iml" group="youtubeEx" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/youtube/youtubeEx/app/youtubeEx-app.iml" filepath="$PROJECT_DIR$/../../../../../../likewise-open/SPREADTRUM/chrison.chai/htz/youtube/youtubeEx/app/youtubeEx-app.iml" group="youtubeEx/app" />
+    </modules>
+  </component>
+</project>
